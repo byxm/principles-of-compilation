@@ -1,4 +1,4 @@
-const Enum = require('../common/common');
+const Enum = require('../common/Enum');
 
 
 module.exports = {

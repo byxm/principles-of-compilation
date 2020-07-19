@@ -473,6 +473,11 @@ js-yaml@3.13.1:
     argparse "^1.0.7"
     esprima "^4.0.0"
 
+linkedlist@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.npm.taobao.org/linkedlist/download/linkedlist-1.0.1.tgz#7b74189bfad6e76367fb5a10f3c36913128b782b"
+  integrity sha1-e3QYm/rW52Nn+1oQ88NpExKLeCs=
+
 locate-path@^3.0.0:
   version "3.0.0"
   resolved "https://registry.npm.taobao.org/locate-path/download/locate-path-3.0.0.tgz#dbec3b3ab759758071b58fe59fc41871af21400e"
